@@ -1,4 +1,4 @@
-# Bank Loan Report
+# Bank Loan Analytics Dashboard
 
 This repository contains the analysis and visualization of bank loan data. The project involves using MySQL to analyze various parameters of the bank's loan data, followed by creating impactful visualizations using Tableau, which is connected through a MySQL server.
 
@@ -21,4 +21,5 @@ To get started with this project, follow these steps:
 1. **Clone the Repository**: 
    ```bash
    git clone https://github.com/yourusername/Bank_Loan_Report.git
+
 
